@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "Daily expense tracker with categories, budget limits, visual charts, and Google Sheets cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
