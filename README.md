@@ -6,7 +6,7 @@ An offline-first personal expense tracker built with **Kotlin** and **Jetpack Co
 
 ## 📱 Screenshots
 
-<img width="2970" height="3200" alt="image" src="https://github.com/user-attachments/assets/d84d6b9e-4378-4543-912c-180ac4cdb0c2" />
+<img width="400" height="431" alt="image" src="https://github.com/user-attachments/assets/d84d6b9e-4378-4543-912c-180ac4cdb0c2" />
 
 
 
